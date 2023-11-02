@@ -1,19 +1,17 @@
 <h1 align="center">Hi, my name is Ahmad</h1>
-<h3 align="center">I like working on Low-Level programming and M.L. projects. I'm also interested in Game Development and Web Developmenta</h3>
+<h3 align="center">I like working on Low-Level programming and M.L. projects. I'm also interested in Game Development and Web Development</h3>
 
-- I’m currently learning **Rust and I'm playing around with new languages and technologies**
+- Hi, I am a 4th year Computer Engineering Student at Toronto Metropolitan University 
 
 - I'm currently on my Co-op Year at General Electric Vernova **as a a Software Developer Co-op**
 
-- My favourite project that I'm working on is [an Embedded System Weather Station that uses M.L. predictive models to forecast the weather](https://github.com/ahmadlgohary/weatherStation)
+- I’m currently learning **Rust and I'm playing around with new languages and technologies**
 
-- LinkedIn [https://www.linkedin.com/in/ahmadlgohary/](https://www.linkedin.com/in/ahmadlgohary/)
+- My favourite project that I'm working on is an Embedded System Weather Station that uses M.L. predictive models: [Project Link] (https://github.com/ahmadlgohary/weatherStation)
 
-- All of my projects are available at [https://ahmadlgohary.github.io/Portfolio/](https://ahmadlgohary.github.io/Portfolio/)
+- All of my projects are available at [My Github] (https://github.com/ahmadlgohary) in addition to [My Github] (https://github.com/ahmadlgohary)
 
-- Email **a.elgohary@live.ca**
-
-- My Resume [https://ahmadlgohary.github.io/Portfolio/resume.html](https://ahmadlgohary.github.io/Portfolio/resume.html)
+- Email **a.elgohary@live.ca**          [My LinkedIn] (https://www.linkedin.com/in/ahmadlgohary/)          [My Resume] (https://ahmadlgohary.github.io/Portfolio/resume.html)
 
 - Fun fact **I love working out, making music and playing video games**
 
