@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi, my name is Ahmad</h1>
 <h3 align="center">I like working on Low-Level programming and M.L. projects. I'm also interested in Game Development and Web Development</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - Hi, I am a **4th year Computer Engineering Student** at **Toronto Metropolitan University**
 
