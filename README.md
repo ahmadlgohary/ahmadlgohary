@@ -9,9 +9,11 @@
 
 - My favourite project that I'm working on is an Embedded System Weather Station that uses M.L. predictive models: [Project Link](https://github.com/ahmadlgohary/weatherStation)
 
-- All of my projects are available at [My Github] (https://github.com/ahmadlgohary) in addition to [My Github](https://github.com/ahmadlgohary)
+- All of my projects are also available at [My Portfolio](https://ahmadlgohary.github.io/Portfolio) 
 
-- Email **a.elgohary@live.ca**          [My LinkedIn](https://www.linkedin.com/in/ahmadlgohary/)          [My Resume](https://ahmadlgohary.github.io/Portfolio/resume.html)
+- My Email **a.elgohary@live.ca**
+- [My LinkedIn](https://www.linkedin.com/in/ahmadlgohary/)
+- [My Resume](https://ahmadlgohary.github.io/Portfolio/resume.html)
 
 - Fun fact **I love working out, making music and playing video games**
 
