@@ -1,4 +1,4 @@
-![Screenshot 2023-11-02 114734](https://github.com/ahmadlgohary/ahmadlgohary/assets/116977902/d8d9032a-a374-47a4-86ae-7ffea3302bf3)
+![MasterHead](https://github.com/ahmadlgohary/ahmadlgohary/assets/116977902/1d3c55ad-453e-480c-9ceb-2c0038cdd03f)
 
 <h1 align="center">Hi, my name is Ahmad</h1>
 <h3 align="center">I like working on Low-Level programming and M.L. projects. I'm also interested in Game Development and Web Development</h3>
