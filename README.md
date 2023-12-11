@@ -11,9 +11,9 @@
 
 - My favourite project that I'm working on is an Embedded System Weather Station that uses M.L. predictive models: [Project Link](https://github.com/ahmadlgohary/weatherStation)
 
-- All of my projects are also available at [My Portfolio](https://ahmadlgohary.github.io/Portfolio)
+- All of my projects are also available at [My Portfolio](https://ahmadlgohary.github.io)
 
-- My [Resume](https://ahmadlgohary.github.io/Portfolio/resume.html) is also availiable on my portfolio page
+- My [Resume](https://ahmadlgohary.github.io/resume.html) is also availiable on my portfolio page
 
 - Fun fact I love working out, making music and playing video games
 
